@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.b11396c8.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.c740b69a.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.c740b69a.chunk.js.map",
+    "main.js": "/my-react-portfolio/static/js/main.97512a62.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.97512a62.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.dee2495f.js",
     "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.dee2495f.js.map",
     "static/css/2.b6a8c48d.chunk.css": "/my-react-portfolio/static/css/2.b6a8c48d.chunk.css",
-    "static/js/2.cc7bdf87.chunk.js": "/my-react-portfolio/static/js/2.cc7bdf87.chunk.js",
-    "static/js/2.cc7bdf87.chunk.js.map": "/my-react-portfolio/static/js/2.cc7bdf87.chunk.js.map",
+    "static/js/2.1b573cc9.chunk.js": "/my-react-portfolio/static/js/2.1b573cc9.chunk.js",
+    "static/js/2.1b573cc9.chunk.js.map": "/my-react-portfolio/static/js/2.1b573cc9.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "precache-manifest.7a5910224855429571823e07ecbc7d43.js": "/my-react-portfolio/precache-manifest.7a5910224855429571823e07ecbc7d43.js",
+    "precache-manifest.3494dff0cc8a659ccef81c22917d986e.js": "/my-react-portfolio/precache-manifest.3494dff0cc8a659ccef81c22917d986e.js",
     "service-worker.js": "/my-react-portfolio/service-worker.js",
     "static/css/2.b6a8c48d.chunk.css.map": "/my-react-portfolio/static/css/2.b6a8c48d.chunk.css.map",
     "static/css/main.b11396c8.chunk.css.map": "/my-react-portfolio/static/css/main.b11396c8.chunk.css.map",
-    "static/js/2.cc7bdf87.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.cc7bdf87.chunk.js.LICENSE.txt",
+    "static/js/2.1b573cc9.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.1b573cc9.chunk.js.LICENSE.txt",
     "static/media/CRinterface.png": "/my-react-portfolio/static/media/CRinterface.7a60be73.png",
+    "static/media/Cybersecurity.png": "/my-react-portfolio/static/media/Cybersecurity.a6cbedeb.png",
     "static/media/PortraitPic.png": "/my-react-portfolio/static/media/PortraitPic.c2c3745b.png",
     "static/media/WebDes.png": "/my-react-portfolio/static/media/WebDes.0e9869c2.png",
     "static/media/WebDev.png": "/my-react-portfolio/static/media/WebDev.28908644.png",
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.dee2495f.js",
     "static/css/2.b6a8c48d.chunk.css",
-    "static/js/2.cc7bdf87.chunk.js",
+    "static/js/2.1b573cc9.chunk.js",
     "static/css/main.b11396c8.chunk.css",
-    "static/js/main.c740b69a.chunk.js"
+    "static/js/main.97512a62.chunk.js"
   ]
 }
