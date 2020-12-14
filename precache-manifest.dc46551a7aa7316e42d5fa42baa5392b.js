@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12417a1bcd4df1cac1c30483d559274d",
+    "revision": "84eef5fc5257899006a4ed250cde40ec",
     "url": "/my-react-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-portfolio/static/css/2.b6a8c48d.chunk.css"
   },
   {
-    "revision": "137556c93f45bc2ce924",
+    "revision": "b76477758a6b3dfa7df6",
     "url": "/my-react-portfolio/static/css/main.b11396c8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-portfolio/static/js/2.1b573cc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "137556c93f45bc2ce924",
-    "url": "/my-react-portfolio/static/js/main.97512a62.chunk.js"
+    "revision": "b76477758a6b3dfa7df6",
+    "url": "/my-react-portfolio/static/js/main.7a64528b.chunk.js"
   },
   {
     "revision": "0c530593fa9a17e82b1e",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-portfolio/static/media/CRinterface.7a60be73.png"
   },
   {
-    "revision": "a6cbedeb17077696b689a91bb64b3018",
-    "url": "/my-react-portfolio/static/media/Cybersecurity.a6cbedeb.png"
-  },
-  {
     "revision": "c2c3745b26a042f446d03c531793f3c4",
     "url": "/my-react-portfolio/static/media/PortraitPic.c2c3745b.png"
+  },
+  {
+    "revision": "98ecb3164c0f5ffb9df962dcb51ddc4d",
+    "url": "/my-react-portfolio/static/media/ReplyBotWriteupPic.98ecb316.png"
   },
   {
     "revision": "0e9869c29fb2213d47dc0689e4136af6",
