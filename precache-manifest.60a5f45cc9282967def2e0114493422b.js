@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0e03af2a08869f1b994abd499081575",
+    "revision": "ed829568adcfec3e76cc619659784773",
     "url": "/my-react-portfolio/index.html"
   },
   {
-    "revision": "0fcef87d81f6c05e9e79",
+    "revision": "ce534abe5fce27f1b429",
     "url": "/my-react-portfolio/static/css/2.cd1c2086.chunk.css"
   },
   {
-    "revision": "53b9b34a9d8fd6cc39f2",
+    "revision": "e579446ccee8a4db4653",
     "url": "/my-react-portfolio/static/css/main.b11396c8.chunk.css"
   },
   {
-    "revision": "0fcef87d81f6c05e9e79",
-    "url": "/my-react-portfolio/static/js/2.72ad4cda.chunk.js"
+    "revision": "ce534abe5fce27f1b429",
+    "url": "/my-react-portfolio/static/js/2.8ef0a474.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/my-react-portfolio/static/js/2.72ad4cda.chunk.js.LICENSE.txt"
+    "url": "/my-react-portfolio/static/js/2.8ef0a474.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53b9b34a9d8fd6cc39f2",
-    "url": "/my-react-portfolio/static/js/main.d598eddc.chunk.js"
+    "revision": "e579446ccee8a4db4653",
+    "url": "/my-react-portfolio/static/js/main.26defba8.chunk.js"
   },
   {
     "revision": "0c530593fa9a17e82b1e",
@@ -36,12 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-portfolio/static/media/Cybersecurity.a6cbedeb.png"
   },
   {
+    "revision": "38453b619d6e564b328ba49cb5f8e01a",
+    "url": "/my-react-portfolio/static/media/DataVisualization.38453b61.png"
+  },
+  {
     "revision": "c2c3745b26a042f446d03c531793f3c4",
     "url": "/my-react-portfolio/static/media/PortraitPic.c2c3745b.png"
   },
   {
     "revision": "98ecb3164c0f5ffb9df962dcb51ddc4d",
     "url": "/my-react-portfolio/static/media/ReplyBotWriteupPic.98ecb316.png"
+  },
+  {
+    "revision": "8af18409a80f2f757398b6b7b24c823a",
+    "url": "/my-react-portfolio/static/media/ToDoList.8af18409.png"
+  },
+  {
+    "revision": "3f6b6c3ffcebf7bb11eb0fe7b32469ec",
+    "url": "/my-react-portfolio/static/media/URLShortener.3f6b6c3f.png"
   },
   {
     "revision": "0e9869c29fb2213d47dc0689e4136af6",
